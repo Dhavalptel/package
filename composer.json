@@ -1,0 +1,16 @@
+{
+    "name": "yourvendor/greeting-package",
+    "description": "A simple greeting package for Laravel",
+    "keywords": ["laravel", "package"],
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "YourVendor\\GreetingPackage\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.3",
+        "illuminate/support": "^8.0"
+    }
+}
