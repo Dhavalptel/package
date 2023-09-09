@@ -1,5 +1,5 @@
 {
-    "name": "yourvendor/greeting-package",
+    "name": "invite/greeting",
     "description": "A simple greeting package for Laravel",
     "keywords": ["laravel", "package"],
     "license": "MIT",
