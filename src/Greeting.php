@@ -1,5 +1,5 @@
 <?php
-namespace YourVendor\GreetingPackage;
+namespace Invite\Greeting;
 
 class Greeting
 {
